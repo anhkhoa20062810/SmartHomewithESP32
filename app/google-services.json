@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430580030848",
+    "project_id": "smarthome-954f9",
+    "storage_bucket": "smarthome-954f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430580030848:android:b74973907c6774a5043565",
+        "android_client_info": {
+          "package_name": "com.example.esp32_led"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrnploV7WOsOsnVhu2ZVNeMkI-D7Ck4kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
